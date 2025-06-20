@@ -1,2 +1,2 @@
 # Dictionary-app1
-This is a project
+Created the dictionary app
